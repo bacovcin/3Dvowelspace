@@ -33,6 +33,9 @@ z = Speaker's birth year
 The graph relies on smoothed by-speaker normalized data using the R scripts discussed below.
 
 ## Files
+# Example screenshots
+While one of the advantages of this code is that the output graph is interactive, I have included some screenshots to give a sense of what the output looks like (the screenshots use data from the Philadelphia Neighbourhood Corpus).
+
 # normalize-data.R
 Performs the following steps:
 
